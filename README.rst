@@ -7,7 +7,7 @@
 
 =====
 
-SMART-HELMET-IOT is a IOT based smart helmet which was developed by team CODE SPEAR for an all INDIA level competition
+**SMART-HELMET-IOT** is a IOT based smart helmet which was developed by team CODE SPEAR for an all INDIA level competition
 and ended up scoring 10 rank.
 
 SMART-HELMET-IOT ensures that the rider wear the helmet properly and make sure that motor vehicle won't function
@@ -16,7 +16,7 @@ until rider wear helmet. It directly integrate with the motor vehicle system whi
 SMART-HELMET-IOT is developed in such a way that it can be easily integrated with all the current operating vehicles and helmet,
 so there is no need to buy a totally new helmet or a new vehicle.
 
-SMART-HELMET-IOT is also feasible and will cost less than 300 rupees for the whole model.
+SMART-HELMET-IOT is also feasible and will cost less than 300 rupees for the whole system.
 
 
 
@@ -30,7 +30,7 @@ SMART-HELMET-IOT is also feasible and will cost less than 300 rupees for the who
 =====
 
 
-FUTURE:
+**FUTURE:**
 
 SMART-HELMET-IOT has a vast future scope some of which under development are :
 
@@ -45,7 +45,7 @@ SMART-HELMET-IOT has a vast future scope some of which under development are :
 
 
 
-TEAM: CODESPEAR
+**TEAM: CODESPEAR**
 
 1) `Harsh Vijay <https://www.linkedin.com/in/harsh-vijay>`_
 
@@ -63,5 +63,5 @@ TEAM: CODESPEAR
 
 =====
 
-THIS IDEA IS UNDER PATENT       
+**THIS IDEA IS UNDER PATENT**       
 
