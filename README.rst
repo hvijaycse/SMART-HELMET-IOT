@@ -1,12 +1,12 @@
-
-=====
 .. image:: https://raw.githubusercontent.com/hvijaycse/SMART-HELMET-IOT-/master/graphics/LOGOplain.png
-
     :target: https://github.com/hvijaycse/SMART-HELMET-IOT-
+    
 =====
+
 | NodeMCU | | C Sharp | | IOT | | WIFI |
 
 =====
+
 SMART-HELMET-IOT is a IOT based smart helmet which was developed by team CODE SPEAR for an all INDIA level competition
 and ended up scoring 10 rank.
 
@@ -22,27 +22,17 @@ SMART-HELMET-IOT is also feasible and will cost less than 300 rupees for the who
 
 =====
 
+
 .. image:: https://raw.githubusercontent.com/hvijaycse/SMART-HELMET-IOT-/master/graphics/helmet%20back_side.jpg
-
-
-
-
-
-
-
     :target: https://github.com/hvijaycse/SMART-HELMET-IOT-
 
 
-
-  
-
 =====
+
 
 FUTURE:
 
 SMART-HELMET-IOT has a vast future scope some of which under development are :
-
-
 
 1) Driving License verification
 
@@ -51,15 +41,11 @@ SMART-HELMET-IOT has a vast future scope some of which under development are :
 3) Parental focus Over-Speed detection , Rush Driving detection
 
 
-
 =====
 
 
 
 TEAM: CODESPEAR
-
-
-
 1) `Harsh Vijay <https://www.linkedin.com/in/harsh-vijay>`_
 
 2) `Arpit Khandelwal <https://www.facebook.com/arpit.khandelwal.1276>`_
