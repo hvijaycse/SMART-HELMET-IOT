@@ -3,7 +3,7 @@
     
 =====
 
-| NodeMCU | | C Sharp | | IOT | | WIFI |
+| NodeMCU  ||  C Sharp  ||  IOT  ||  WIFI 
 
 =====
 
