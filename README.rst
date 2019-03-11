@@ -1,4 +1,4 @@
-# SMART-HELMET-IOT
+
 =====
 .. image:: https://raw.githubusercontent.com/hvijaycse/SMART-HELMET-IOT-/master/graphics/LOGOplain.png
 
