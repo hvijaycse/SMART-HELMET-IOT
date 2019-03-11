@@ -46,6 +46,7 @@ SMART-HELMET-IOT has a vast future scope some of which under development are :
 
 
 TEAM: CODESPEAR
+
 1) `Harsh Vijay <https://www.linkedin.com/in/harsh-vijay>`_
 
 2) `Arpit Khandelwal <https://www.facebook.com/arpit.khandelwal.1276>`_
