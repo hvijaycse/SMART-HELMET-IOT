@@ -1,4 +1,4 @@
-.. image:: https://raw.githubusercontent.com/hvijaycse/SMART-HELMET-IOT-/master/graphics/LOGOplain.png
+.. image:: https://raw.githubusercontent.com/hvijaycse/SMART-HELMET-IOT/master/graphics/git-start.jpg
     :target: https://github.com/hvijaycse/SMART-HELMET-IOT-
     
 =====
