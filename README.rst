@@ -23,7 +23,7 @@ SMART-HELMET-IOT is also feasible and will cost less than 300 rupees for the who
 =====
 
 
-.. image:: https://raw.githubusercontent.com/hvijaycse/SMART-HELMET-IOT-/master/graphics/helmet%20back_side.jpg
+.. image:: https://raw.githubusercontent.com/hvijaycse/SMART-HELMET-IOT/master/graphics/helmet%20back_side%20-%20Copy.jpg
     :target: https://github.com/hvijaycse/SMART-HELMET-IOT-
 
 
