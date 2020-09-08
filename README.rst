@@ -47,21 +47,18 @@ SMART-HELMET-IOT has a vast future scope some of which under development are :
 
 **TEAM: CODESPEAR**
 
-1) `Harsh Vijay <https://www.linkedin.com/in/harsh-vijay>`_
+1) `Harsh Vijay <https://www.linkedin.com/in/hvijaycse/>`_
 
-2) `Arpit Khandelwal <https://www.facebook.com/arpit.khandelwal.1276>`_
+2) `Arpit Khandelwal <https://www.linkedin.com/in/arpit-khandelwal-307778188/>`_
 
-3) `Himani Jain <https://github.com/jainhimani1999>`_
+3) `Himani Jain <https://www.linkedin.com/in/jainhimani1999/>`_
 
-4) `Akshay Thakur <https://github.com/GHakshay>`_
+4) `Akshay Thakur <https://www.linkedin.com/in/akshay-kumar-3153b8170/>`_
 
-5) `Ayushi Khandelwal <https://www.facebook.com/anmf.suzen>`_
+5) `Ayushi Khandelwal <https://www.linkedin.com/in/ayushi-k-3047a416a/>`_
 
-6) `Bhavya Jain <https://www.facebook.com/bhavya.jain.108>`_
+6) `Bhavya Jain <https://www.linkedin.com/in/bhavyajain1721/>`_
 
 
 
 =====
-
-**THIS IDEA IS UNDER PATENT**       
-
